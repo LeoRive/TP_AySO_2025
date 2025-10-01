@@ -1,0 +1,84 @@
+
+apropos network
+sudo adduser elRive
+sudo adduser elrive
+sudo groupadd lospoderosos
+cat `
+sudo adduser roberto
+
+exit
+
+tree
+sudo apt install tree
+tree
+pwd
+cd /home
+tree
+Id elrive
+ld elrive
+id elrive
+ssh-keygen
+cd ~/.ssh
+ls
+ls -a
+cd /home/lrivero/.ssh
+ls -a
+ssh-keygen
+sudo adduser lrivero vboxsf
+lsmod | grep vboxsf
+sudo groupadd vboxsf
+sudo usermod -aG vboxsf lrivero
+lsmod | grep vboxsf
+exit
+sudo apt update
+sudo apt install bzip2
+ssh-keygen
+dc repogit
+cd repogit
+git clone git@github.com:LeoRive/TP_AySO_2025.git
+sudo apt install git
+git clone git@github.com:LeoRive/TP_AySO_2025.git
+cd TP_AySO_2025/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+whoiam
+whoami
+echo "Usuario=$(whoami)">datos_usuario.txt
+git add .
+git config --global user.mail "leo.rive@live.com.ar"
+git config --global user.name "LeoRive"
+git commit -m "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git config --global user.email "leo.rive@live.com.ar"
+git commit -m "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep cpuinfo
+cd repogit
+cd TP_AySO_2025/
+grep model_name -i /proc/cpuinfo
+grep -i model_name /proc/cpuinfo
+grep MODEL_NAME /proc/cpuinfo
+cat /proc/cpuinfo | grep 'model name'
+grep -i 'model name' /proc/cpuinfo
+cat /proc/cpuinfo | grep 'model name' | uniq
+grep "model name" /proc/cpuinfo | head -n1
+echo "ModeloCPU=$(grep "model name" /proc/cpuinfo | head -n1)>>datos_usuario.txt
+echo "ModeloCPU=$(grep "model name" /proc/cpuinfo | head -n1)">>datos_usuario.txt
+cd repogit
+cd TP_AySO_2025/
+echo "ModeloCPU=$(grep "model name" /proc/cpuinfo | head -n1)">>datos_usuario.txt
+git add .
+git commit -m "ADD:feat agregando informacion de CPU"
+git status
+git push
+echo "Alumno: Leandro Adriel Rivero">>README.md
+echo "Division: 315">>README.md
+echo "Turno: Noche">>README.md
+cat <<EOF>>README.md
+
+
