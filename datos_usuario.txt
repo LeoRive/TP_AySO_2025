@@ -1,1 +1,2 @@
 Usuario=lrivero
+ModeloCPU=model name	: AMD Ryzen 3 PRO 2300U w/ Radeon Vega Mobile Gfx
